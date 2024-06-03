@@ -1,6 +1,6 @@
 ## Hi there , I'm Dhanishtha 👋</br>
 <br>
-My passion lies in harnessing the power of data, where I excel at: <img align="right" width="250" height="200" src="https://github.com/Dhanishthad/Dhanishthad/assets/101131774/6f5954a4-8066-4e20-9f1e-458bb41f2562"> 
+My passion lies in harnessing the power of data, where I excel at: <img align="right" width="350" height="200" src="https://github.com/Dhanishthad/Dhanishthad/assets/101131774/588e5562-c9f9-42c6-9e78-f5f68ca473f9"> 
 
 <br>📊 Creating robust datasets using tools like SQL</br>
 📈 Analyzing data using PowerBI</br>
