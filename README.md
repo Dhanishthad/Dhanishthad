@@ -1,5 +1,4 @@
 ## Hi there , I'm Dhanishtha 👋
-
 My passion lies in harnessing the power of data, where I excel at:
 
 📊 Creating robust datasets using tools like SQL
