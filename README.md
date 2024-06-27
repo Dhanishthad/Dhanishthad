@@ -1,17 +1,3 @@
-## Hi there , I'm Dhanishtha 👋</br>
-<br>
-My passion lies in harnessing the power of data, where I excel at: <img align="right" width="350" height="200" src="https://github.com/Dhanishthad/Dhanishthad/assets/101131774/588e5562-c9f9-42c6-9e78-f5f68ca473f9"> 
-
-<br>📊 Creating robust datasets using tools like SQL</br>
-📈 Analyzing data using PowerBI</br>
-🐍 Cleaning data with Python libraries like NumPy and Pandas</br>
-🔍 Conducting exploratory data analysis with Scikit, Seaborn, and Matplotlib</br>      🤖 Implementing machine/deep learning models with the right algorithms</br> 
-
-📫 Reach out to me at deoredhanishtha@gmail.com</br>
-
-## Languages and Tools 
-
-
 ### Languages:
 | Python3 | C++ | 
 |----------|----------|
